@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728378381 source:e:\programming\pointers_linked_lists\main.c
+	<stdio.h>
+	<stdlib.h>
+

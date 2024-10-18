@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727917286 source:e:\programming\strings_counting_characters_in_string\main.c
+	<stdio.h>
+	<stdlib.h>
+

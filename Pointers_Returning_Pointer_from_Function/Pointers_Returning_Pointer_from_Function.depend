@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728392438 source:e:\programming\pointers_returning_pointer_from_function\main.c
+	<stdio.h>
+	<stdlib.h>
+
