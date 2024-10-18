@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726774790 source:e:\programming\functions_change_array_values\main.c
+	<stdio.h>
+	<stdlib.h>
+
