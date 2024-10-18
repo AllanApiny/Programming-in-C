@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728031679 source:e:\programming\strings0_dictionary_lookup\main.c
+	<stdio.h>
+	<stdbool.h>
+
